@@ -64,4 +64,4 @@ For other compiler errors, make sure libraries are updated to the latest version
 
 This project is free, open-source software under the [MIT license](LICENSE.md).
 
-Copyright 2015-2017 [Jason Sturges](http://jasonsturges.com)
+Copyright 2017 [Jason Sturges](http://jasonsturges.com)
