@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="OpenFL Away3D Roxik Sharikura Performance" package="com.jasonsturges.labs.openflaway3droxiksharikura" version="1.0.0" company="Jason Sturges" />
+	<app main="Main" path="Export" file="OpenFlAway3dRoxikSharikura" />
+	
+	<source path="Source" />
+
+	<haxelib name="format" if="html5"/>
+	<haxelib name="away3d"/>
+	<haxelib name="openfl"/>
+
+	<haxedef name="source-map-content" if="html5"/>
+
+	<haxeflag name="-swf-version" value="11.3"/>
+
+	<assets path="Assets" rename="assets"/>
+	<icon path="Assets/openfl.svg"/>
+
+	<window width="1280" height="720" if="desktop"/>
+	<window width="0" height="0" if="html5"/>
+	<window orientation="landscape" vsync="true" if="cpp"/>
+	<window fps="36" hardware="true" allow-shaders="true" require-shaders="true" depth-buffer="true"
+			stencil-buffer="true" background="#000000"/>
+	
+</project>
