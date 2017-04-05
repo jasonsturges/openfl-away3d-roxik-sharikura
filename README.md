@@ -12,7 +12,7 @@ Animation motion keyboard shortcuts:
 - <kbd>4</kbd> &mdash; Tube
 - <kbd>5</kbd> &mdash; Wave
 - <kbd>6</kbd> &mdash; Gravity
-- <kbd>6</kbd> &mdash; Antigravity
+- <kbd>7</kbd> &mdash; Antigravity
 
 
 ## Getting started
