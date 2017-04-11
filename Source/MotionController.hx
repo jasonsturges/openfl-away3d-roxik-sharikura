@@ -5,16 +5,16 @@
     _.__/  _| _| \__| \__| _| _|  _| \__, |
                                      |___/
     Blitting, http://blitting.com
-    http://jasonsturges.com
+    Jason Sturges, http://jasonsturges.com
 */
 package;
 
 
 class MotionController {
 
-//------------------------------
-//  model
-//------------------------------
+    //------------------------------
+    //  model
+    //------------------------------
 
     // TODO: intro
     public static inline var CYLINDER:Int = 0;
@@ -37,9 +37,9 @@ class MotionController {
     private var _rl:Float;
 
 
-//------------------------------
-//  lifecycle
-//------------------------------
+    //------------------------------
+    //  lifecycle
+    //------------------------------
 
     public function new() {
     }

@@ -16,9 +16,9 @@ import openfl.geom.Vector3D;
 
 class CameraController {
 
-//------------------------------
-//  model
-//------------------------------
+    //------------------------------
+    //  model
+    //------------------------------
 
     public var camera:Camera3D;
     public var models:Array<ModelMesh>;
@@ -36,9 +36,9 @@ class CameraController {
     private var _rp:Float = 0.03;
 
 
-//------------------------------
-//  lifecycle
-//------------------------------
+    //------------------------------
+    //  lifecycle
+    //------------------------------
 
     public function new() {
     }

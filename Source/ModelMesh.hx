@@ -18,9 +18,9 @@ import openfl.geom.Vector3D;
 
 class ModelMesh extends Mesh {
 
-//------------------------------
-//  model
-//------------------------------
+    //------------------------------
+    //  model
+    //------------------------------
 
     public var dest:Vector3D;
     public var dir:Vector3D;
@@ -29,9 +29,9 @@ class ModelMesh extends Mesh {
     public var animate:Bool;
 
 
-//------------------------------
-//  lifecycle
-//------------------------------
+    //------------------------------
+    //  lifecycle
+    //------------------------------
 
     public function new(geometry:Geometry, material:MaterialBase = null) {
         super(geometry, material);
