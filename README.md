@@ -2,8 +2,13 @@
 
 Recreation of Roxik Sharikura 3D engine performance example, built with Haxe using OpenFL and Away3D.
 
-Launch demo: http://labs.jasonsturges.com/haxe/openfl/away3d/roxik-sharikura/
-![screen-capture](http://labs.jasonsturges.com/haxe/openfl/away3d/roxik-sharikura/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/1213591/106401055-9c8ccb00-63e7-11eb-9484-4c7785e5d151.png)
+
+YouTube:
+https://youtu.be/yyjB6N86iNI
+
+Web Demo:
+https://jasonsturges.github.io/openfl-away3d-roxik-sharikura/
 
 Animation motion keyboard shortcuts:
 - <kbd>1</kbd> &mdash; Cylinder
